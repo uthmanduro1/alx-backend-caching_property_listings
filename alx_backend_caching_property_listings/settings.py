@@ -81,7 +81,7 @@ DATABASES = {
         'USER': 'postgres',
         'PASSWORD': 'uthmanbadolee',
         'HOST': 'localhost',  # Use 'postgres' inside Docker container
-        'PORT': '5434',
+        'PORT': '5432',
     }
 }
 
